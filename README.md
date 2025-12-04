@@ -2,6 +2,8 @@ AI-Powered Personal Career Chatbot
 
 This project is a Python-based AI chatbot designed to act as a personalized, professional digital assistant. It can answer questions about a person's career, skills, work experience, tools, achievements, and professional background — all while speaking naturally in first person.
 
+https://395f440301ef844c2f.gradio.live
+
 <img width="1848" height="587" alt="image" src="https://github.com/user-attachments/assets/e24eb910-3ea6-496a-8c36-79f5f80599f7" />
 
 
